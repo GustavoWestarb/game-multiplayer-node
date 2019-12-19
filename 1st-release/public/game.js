@@ -9,7 +9,6 @@ export default function createGame(){
         }
     }
 
-
     function addPlayer(command){
         const playerId = command.playerId;
         const playerX = command.playerX;
